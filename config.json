@@ -1,0 +1,6 @@
+{
+	"test_db":{
+		"table1":"table1.csv",
+		"table2":"table1.csv"
+	}
+}
